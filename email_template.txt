@@ -1,0 +1,3 @@
+Hi {name},
+
+we've got some great deals for you. Check our website!
